@@ -6,3 +6,6 @@ This is a GitHub repository for the Reproducibility &amp; Model Deployment cours
 ## About Me
 Hi, I’m Li Yanzhuo.
 I’m learning how to use GitHub Issues.
+
+## Fun Fact
+Hello world!
